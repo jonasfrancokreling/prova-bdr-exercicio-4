@@ -1,4 +1,4 @@
-Simple API REST PHP ANGULAR -> Test BDR -> Brasil
+SIMPLE API REST PHP ANGULAR -> TEST BDR -> BRASIL
 ===================================================
 <br />
 Para testar essa API serão necessários alguns passos:<br />
